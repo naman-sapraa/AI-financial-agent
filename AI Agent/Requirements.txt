@@ -1,0 +1,19 @@
+# Core libraries
+pandas==2.0.3
+numpy==1.24.3
+requests==2.31.0
+python-dotenv==1.0.0
+schedule==1.2.0
+
+# Financial analysis
+yfinance==0.2.31
+ta==0.10.2
+
+# NLP and sentiment analysis
+nltk==3.8.1
+newspaper3k==0.2.8
+beautifulsoup4==4.12.2
+tweepy==4.14.0
+
+# Logging and utility
+python-dateutil==2.8.2
